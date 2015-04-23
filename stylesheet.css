@@ -1,0 +1,44 @@
+div
+{
+   background-color: white;
+}
+
+p
+{
+   font-size: 15px;
+   font-color: #21180E;
+   font-family: Tahoma;
+   align: center;
+}
+
+span
+
+{
+   background-color: white;
+   font-color: #E2D00B;
+   font-family: Courier New;
+}
+
+a:link 
+{
+	text-decoration: none;
+	color: #F8D10C;
+}
+
+a:visited 
+{
+	text-decoration: none; 
+	color: #FFFFFF;
+}
+
+a:hover 
+{
+	text-decoration: none; 
+	color: #FFE86E;
+}
+
+a:active 
+{
+	text-decoration: none; 
+	color: #F8D10C;
+}
